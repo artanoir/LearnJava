@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1757c8a4-c43f-421d-ab5a-be55bb0018cd" name="Changes" comment="" />
+    <list default="true" id="1757c8a4-c43f-421d-ab5a-be55bb0018cd" name="Changes" comment="Add" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +9,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2cYlC9PFNXCrRHQZFL73fh20a9e" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,8 +34,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708296263472</updated>
+      <workItem from="1708296264946" duration="66000" />
     </task>
+    <task id="LOCAL-00001" summary="Add">
+      <created>1708296304847</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708296304847</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -44,5 +59,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add" />
   </component>
 </project>
